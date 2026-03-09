@@ -35,6 +35,33 @@ Terraform
 
 ---
 
+## Architecture Diagram
+
+```
+            Terraform
+                │
+                ▼
+        AWS Infrastructure
+                │
+        ┌───────┴────────┐
+        │                │
+        ▼                ▼
+      VPC            Security Group
+        │                │
+        ▼                ▼
+      Subnet         Port 8080 Open
+        │
+        ▼
+      EC2 Instance
+        │
+        ▼
+      Docker Container
+        │
+        ▼
+   Python Flask Application
+```
+
+
 ## Project Structure
 
 terraform-docker-aws-deployment
