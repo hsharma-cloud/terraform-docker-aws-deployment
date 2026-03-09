@@ -91,6 +91,25 @@ README.md
 
 ---
 
+## Technologies Used
+
+- Terraform
+- Docker
+- AWS EC2
+- AWS VPC
+- Python Flask
+- Git
+
+## Skills Demonstrated
+
+- Infrastructure as Code using Terraform
+- AWS networking (VPC, subnet, route tables)
+- EC2 instance provisioning
+- Docker container deployment
+- Cloud infrastructure lifecycle management
+- Git version control
+
+
 ## Terraform Workflow
 
 Initialize Terraform
