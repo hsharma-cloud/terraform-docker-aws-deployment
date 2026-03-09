@@ -89,17 +89,6 @@ README.md
 - Python Flask
 - Git
 
----
-
-## Technologies Used
-
-- Terraform
-- Docker
-- AWS EC2
-- AWS VPC
-- Python Flask
-- Git
-
 ## Skills Demonstrated
 
 - Infrastructure as Code using Terraform
