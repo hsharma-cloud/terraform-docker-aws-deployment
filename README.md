@@ -172,6 +172,3 @@ This project demonstrates:
 
 ![Subnet](screenshots/terraform-subnet.png)
 
-### Infrastructure Destroyed
-
-![Terraform Destroy](screenshots/terraform-destroy-cleanup.png)
