@@ -106,3 +106,37 @@ This project demonstrates:
 - Containerized application deployment with Docker
 - AWS infrastructure provisioning
 - Cloud cost management using Terraform destroy
+
+## Project Screenshots
+
+### Terraform Initialization
+
+![Terraform Init](screenshots/terraform-init-success.png)
+
+### Terraform Plan
+
+![Terraform Plan](screenshots/terraform-plan-infrastructure.png)
+
+### Terraform Apply
+
+![Terraform Apply](screenshots/terraform-apply-success.png)
+
+### Resources Created
+
+![Terraform Resources](screenshots/terraform-created-resources.png)
+
+### AWS EC2 Instance Running
+
+![EC2 Instance](screenshots/aws-ec2-instance-running.png)
+
+### VPC Network Created
+
+![VPC Network](screenshots/terraform-vpc-network.png)
+
+### Subnet Created
+
+![Subnet](screenshots/terraform-subnet.png)
+
+### Infrastructure Destroyed
+
+![Terraform Destroy](screenshots/terraform-destroy-cleanup.png)
